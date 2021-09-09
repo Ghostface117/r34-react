@@ -10,7 +10,7 @@
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@sentry/integrations": "^6.12.0",
     "@sentry/react": "^6.12.0",
-    "firebase": "^8.9.1",
+    "firebase": "^8.10.0",
     "gh-pages": "^3.2.3",
     "immer": "^9.0.5",
     "react": "^17.0.1",
